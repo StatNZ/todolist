@@ -1,6 +1,4 @@
 NWEN304 PROJECT 2 APPLICAITON
-STATUS O'BRIEN
-300350413
 
 The application that you are using is very simple. It has been uploaded heroku
 located at the folowing url:.
